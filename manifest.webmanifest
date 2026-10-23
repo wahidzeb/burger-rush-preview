@@ -1,0 +1,42 @@
+{
+  "id": "/burger-rush-preview/",
+  "name": "Burger Rush",
+  "short_name": "Burger Rush",
+  "description": "Burger Rush by Zaib: make burgers for hungry animal customers. Follow the order ticket, grill patties to perfection, stack buns, cheese, toppings and sauces, and serve before patience runs out. Earn tips, win stars and upgrade your diner.",
+  "lang": "en",
+  "start_url": "/burger-rush-preview/?source=pwa",
+  "scope": "/burger-rush-preview/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#ff8a3a",
+  "background_color": "#ff8a3a",
+  "categories": [
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "/burger-rush-preview/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/burger-rush-preview/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/burger-rush-preview/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/burger-rush-preview/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
